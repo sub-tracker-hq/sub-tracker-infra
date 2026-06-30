@@ -1,0 +1,5 @@
+{
+  "permissions": {
+    "allow": ["Read", "Edit", "Bash(git status)", "Bash(git diff)", "Bash(docker *)"]
+  }
+}
